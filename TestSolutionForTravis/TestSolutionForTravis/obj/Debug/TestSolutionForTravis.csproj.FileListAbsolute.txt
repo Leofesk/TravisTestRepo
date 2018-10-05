@@ -1,0 +1,11 @@
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\bin\Debug\TestSolutionForTravis.exe.config
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\bin\Debug\TestSolutionForTravis.exe
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\bin\Debug\TestSolutionForTravis.pdb
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\bin\Debug\nunit.framework.dll
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\bin\Debug\nunit.framework.pdb
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\bin\Debug\nunit.framework.xml
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\obj\Debug\TestSolutionForTravis.csprojAssemblyReference.cache
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\obj\Debug\TestSolutionForTravis.csproj.CoreCompileInputs.cache
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\obj\Debug\TestSolutionForTravis.csproj.CopyComplete
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\obj\Debug\TestSolutionForTravis.exe
+C:\VCS\Leofesk\GitHub\TravisTestRepo\TestSolutionForTravis\TestSolutionForTravis\obj\Debug\TestSolutionForTravis.pdb
